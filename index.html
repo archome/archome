@@ -5,13 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>archome</title>
+  <title>Archome</title>
   <meta name="author" content="Archome">
 
   
-  <meta name="description" content="Henttonen (2007) presents a continuum of senses of recordness based on deontic consequences of the speech acts within them: 1
-2
-3 &hellip;">
+  <meta name="description" content="Blog Archives Recent Posts GitHub Repos Status updating&#8230; @archome on GitHub $.domReady(function(){ if (!window.jXHR){ var jxhr = document. &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -26,18 +24,30 @@
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="/javascripts/ender.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="archome" type="application/atom+xml">
+  <link href="/atom.xml" rel="alternate" title="Archome" type="application/atom+xml">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=Arvo:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29488788-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
 
 </head>
 
 <body   >
   <header role="banner"><hgroup>
-  <h1><a href="/">archome</a></h1>
+  <h1><a href="/">Archome</a></h1>
   
 </hgroup>
 
@@ -57,7 +67,6 @@
 <ul class="main-navigation">
   <li><a href="/">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
-  <li><a href="http://github.com/anarchivist">Github</a></li>
 </ul>
 
 </nav>
@@ -65,52 +74,6 @@
     <div id="content">
       <div class="blog-index">
   
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/2012/02/25/senses-of-record/">Senses of record</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-02-25T19:24:00-05:00" pubdate data-updated="true">Feb 25<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><a href="http://acta.uta.fi/english/teos.php?id=10982">Henttonen (2007)</a> presents a continuum of senses of recordness based on deontic consequences of the speech acts within them:</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>|-------------------------------------------------------------|
-</span><span class='line'>Strong sense              Weaker sense                 Personal
-</span><span class='line'>  records                   records                     papers</span></code></pre></td></tr></table></div></figure>
-
-
-<p>Based on the supposition that record creation (i.e. in strong- and weak-sense records) is role-bound, Henttonen argues &#8220;personal papers generally need less contextual information than &#8216;proper&#8217; records.&#8221; This does not sit right with me. In time, I will reflect on why.</p>
-</div>
-  
-  
-
-
-    </article>
   
   <div class="pagination">
     
@@ -124,12 +87,38 @@
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
-      <li class="post">
-        <a href="/2012/02/25/senses-of-record/">Senses of record</a>
-      </li>
-    
   </ul>
 </section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/archome">@archome</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'archome',
+            count: 5,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
 
 <section>
   <h1>Latest Tweets</h1>
@@ -138,33 +127,15 @@
   </ul>
   <script type="text/javascript">
     $.domReady(function(){
-      getTwitterFeed("anarchivist", 4, false);
+      getTwitterFeed("archo_me", 5, true);
     });
   </script>
   <script src="/javascripts/twitter.js" type="text/javascript"> </script>
   
-    <a href="http://twitter.com/anarchivist" class="twitter-follow-button" data-show-count="false">Follow @anarchivist</a>
+    <a href="http://twitter.com/archo_me" class="twitter-follow-button" data-show-count="false">Follow @archo_me</a>
   
 </section>
 
-
-<section>
-  <h1>My Pinboard</h1>
-  <ul id="pinboard_linkroll">Fetching linkroll&#8230;</ul>
-  <p><a href="http://pinboard.in/u:anarchivist">My Pinboard Bookmarks &raquo;</a></p>
-</section>
-<script type="text/javascript">
-  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
-  var pinboard_user = "anarchivist"; //id target for pinboard list
-  var pinboard_count = 3; //id target for pinboard list
-  (function(){
-    var pinboardInit = document.createElement('script');
-    pinboardInit.type = 'text/javascript';
-    pinboardInit.async = true;
-    pinboardInit.src = '/javascripts/pinboard.js';
-    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
-  })();
-</script>
 
 
 
