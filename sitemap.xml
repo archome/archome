@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://archo.me/2012/02/26/media-archaeography/</loc>
+        <lastmod>2012-02-27T00:08:35-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://archo.me/blog/archives/</loc>
-        <lastmod>2012-02-26T12:06:04-05:00</lastmod>
+        <lastmod>2012-02-27T00:08:35-05:00</lastmod>
     </url>
     <url>
         <loc>http://archo.me/</loc>
-        <lastmod>2012-02-26T12:06:04-05:00</lastmod>
+        <lastmod>2012-02-27T00:08:35-05:00</lastmod>
     </url>
 </urlset>
