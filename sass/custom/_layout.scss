@@ -19,3 +19,7 @@ $header-padding-bottom: .5em;
 //$sidebar-pad-medium: 15px;
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
+
+article {
+  div.entry-content p { text-align: justify; }
+}
