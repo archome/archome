@@ -52,6 +52,12 @@ default_asides: [asides/recent_posts.html, asides/twitter.html, asides/github.ht
 # blog_index_asides:
 # post_asides:
 # page_asides:
+    
+# BibTeX Citation plugin
+citation:
+    citation_style: plugins/chicago-author-date.csl
+    citation_locale: en
+
 
 # ----------------------- #
 #   3rd Party Settings    #
