@@ -13,10 +13,10 @@ Skilled blue-collar workers were the bearers of a quite different culture. They 
 
 {% bibtex %}
 @book{arrighi2012anti,
-	title={Anti-Systemic Movements},
-	author={Arrighi, Giovanni and Hopkins, Terence K. and Wallerstein, Immanuel},
-	isbn={9781844677863},
-	year={2012},
-	publisher={Verso Books}
+  title={Anti-Systemic Movements},
+  author={Arrighi, Giovanni and Hopkins, Terence K. and Wallerstein, Immanuel},
+  isbn={9781844677863},
+  year={2012},
+  publisher={Verso Books}
 }
 {% endbibtex %}
