@@ -41,6 +41,7 @@ GEM
       syntax (>= 1.0.0)
     multi_json (1.1.0)
     nokogiri (1.5.0)
+    nokogiri (1.5.0-x86-mingw32)
     posix-spawn (0.3.6)
     pygments.rb (0.1.3)
       rubypython (>= 0.5.1)
@@ -60,9 +61,11 @@ GEM
     syntax (1.0.0)
     tilt (1.3.2)
     unicode (0.4.1)
+    unicode (0.4.1-x86-mingw32)
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   RedCloth
