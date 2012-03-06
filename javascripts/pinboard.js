@@ -52,8 +52,5 @@ function Pinboard_Linkroll() {
   }
 }
 Pinboard_Linkroll.prototype = new Pinboard_Linkroll();
-if (pinboard_user is undefined) {
-    pinboardNS_fetch_script("http://feeds.pinboard.in/json/v1/t:"+pinboard_tag+"/?cb=pinboardNS_show_bmarks\&count="+pinboard_count);
-} else {
-    pinboardNS_fetch_script("http://feeds.pinboard.in/json/v1/u:"+pinboard_user+"/?cb=pinboardNS_show_bmarks\&count="+pinboard_count);
-}
+pinboardNS_fetch_script("http://feeds.pinboard.in/json/v1/u:"+pinboard_user+"/?cb=pinboardNS_show_bmarks\&count="+pinboard_count);
+
