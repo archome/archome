@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Archome]]></title>
-  <link href="http://archo.me/atom.xml" rel="self"/>
-  <link href="http://archo.me/"/>
-  <updated>2012-03-05T19:52:13-05:00</updated>
-  <id>http://archo.me/</id>
+  <link href="http://archome.github.com/archome/atom.xml" rel="self"/>
+  <link href="http://archome.github.com/archome/"/>
+  <updated>2012-03-05T20:32:12-05:00</updated>
+  <id>http://archome.github.com/archome/</id>
   <author>
     <name><![CDATA[Archome]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Notes on Speed and Politics]]></title>
-    <link href="http://archo.me/2012/03/05/notes-on-speed-and-politics/"/>
+    <link href="http://archome.github.com/archome/2012/03/05/notes-on-speed-and-politics/"/>
     <updated>2012-03-05T18:50:00-05:00</updated>
-    <id>http://archo.me/2012/03/05/notes-on-speed-and-politics</id>
+    <id>http://archome.github.com/archome/2012/03/05/notes-on-speed-and-politics</id>
     <content type="html"><![CDATA[<p>Masses are not defined by relation to production, but by their unpredictable and unregulated &#8220;circulation&#8221; (3). &#8220;Revolution is movement, but movement is not a revolution&#8221; (18); as a result the restriction of movement (through legislation, ghettoization, militarization and consumption) is the means by which revolution is suppressed. Revolution is therefore an &#8220;assault on time&#8221; and safety lies not in fleeing but attacking literally before your opponent has the opportunity to destroy you (22).</p>
 
 <blockquote><p>Everything in this new warfare becomes a question of time won by man over the fatal projectiles toward which his path throws him. Speed is Time saved in the absolute sense of the word, since it becomes human Time directly torn from Death&#8230;</p></blockquote>
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[Professional Tyranny]]></title>
-    <link href="http://archo.me/2012/02/29/professional-tyranny/"/>
+    <link href="http://archome.github.com/archome/2012/02/29/professional-tyranny/"/>
     <updated>2012-02-29T14:24:00-05:00</updated>
-    <id>http://archo.me/2012/02/29/professional-tyranny</id>
+    <id>http://archome.github.com/archome/2012/02/29/professional-tyranny</id>
     <content type="html"><![CDATA[<blockquote><p>The wandering physician became the medical doctor when he left commerce in drugs to the pharmacist and kept for himself the power to prescribe them. At that moment, he acquired a new kind of authority by uniting three roles in one person: the sapiental authority to advise, instruct and direct; the moral authority that makes its acceptance not just useful but obligatory; and the charismatic authority that allows the physician to appeal to some supreme interest of his clients that not only outranks conscience but sometimes even the &#8220;raison d&#8217;état.&#8221; &#8230;</p></blockquote>
 
 
@@ -73,9 +73,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Preservation of Monopolistic Control]]></title>
-    <link href="http://archo.me/2012/02/27/the-preservation-of-monopolistic-control/"/>
+    <link href="http://archome.github.com/archome/2012/02/27/the-preservation-of-monopolistic-control/"/>
     <updated>2012-02-27T18:57:00-05:00</updated>
-    <id>http://archo.me/2012/02/27/the-preservation-of-monopolistic-control</id>
+    <id>http://archome.github.com/archome/2012/02/27/the-preservation-of-monopolistic-control</id>
     <content type="html"><![CDATA[<blockquote><p>Skilled blue-collar workers were the bearers of a quite different culture. They were craftsmen who wielded complex skills (partly manual, partly intellectual) on which production processes were highly dependent and on which the income, status and power of the craftsmen, both in the workplace and in the household, rested. Consequently, their greatest preoccupation was the preservation of their monopolistic control over production know-how. This preoccupation identified their interests with those of self-employed craftsmen, made them suspicious of unskilled workers, and was a continuous source of antagonism towards the attempts of the capitalist employers to break the monopolistic practices of these craftsmen through deskilling innovations.</p></blockquote>
 
 
@@ -85,9 +85,9 @@
   
   <entry>
     <title type="html"><![CDATA[Notes on Wolfgang Ernst's "Media Archaeography"]]></title>
-    <link href="http://archo.me/2012/02/26/media-archaeography/"/>
+    <link href="http://archome.github.com/archome/2012/02/26/media-archaeography/"/>
     <updated>2012-02-26T21:45:00-05:00</updated>
-    <id>http://archo.me/2012/02/26/media-archaeography</id>
+    <id>http://archome.github.com/archome/2012/02/26/media-archaeography</id>
     <content type="html"><![CDATA[<p>Wolfgang Ernst&#8217;s (2011) presentation of &#8220;media archaeology&#8221; situates it as a methodological and aesthetic approach that is, in his description, preferable over &#8220;the supremacy of media-historical narratives.&#8221; In Ernst&#8217;s account, the media itself gains a certain level of agency:</p>
 
 <p>{% blockquote %}
