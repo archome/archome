@@ -1,27 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://archo.me/2012/02/26/media-archaeography/</loc>
+        <loc>http://archome.github.com/archome/2012/02/26/media-archaeography/</loc>
         <lastmod>2012-02-28T00:39:46-05:00</lastmod>
     </url>
     <url>
-        <loc>http://archo.me/2012/02/27/the-preservation-of-monopolistic-control/</loc>
+        <loc>
+            http://archome.github.com/archome/2012/02/27/the-preservation-of-monopolistic-control/
+        </loc>
         <lastmod>2012-02-27T22:19:42-05:00</lastmod>
     </url>
     <url>
-        <loc>http://archo.me/2012/02/29/professional-tyranny/</loc>
+        <loc>http://archome.github.com/archome/2012/02/29/professional-tyranny/</loc>
         <lastmod>2012-02-29T14:36:31-05:00</lastmod>
     </url>
     <url>
-        <loc>http://archo.me/2012/03/05/notes-on-speed-and-politics/</loc>
-        <lastmod>2012-03-05T19:57:15-05:00</lastmod>
+        <loc>http://archome.github.com/archome/2012/03/05/notes-on-speed-and-politics/</loc>
+        <lastmod>2012-03-12T13:58:59-04:00</lastmod>
     </url>
     <url>
-        <loc>http://archo.me/blog/archives/</loc>
-        <lastmod>2012-03-05T19:57:15-05:00</lastmod>
+        <loc>http://archome.github.com/archome/2012/03/10/on-the-nature-of-time/</loc>
+        <lastmod>2012-03-12T13:58:59-04:00</lastmod>
     </url>
     <url>
-        <loc>http://archo.me/</loc>
-        <lastmod>2012-03-05T19:57:15-05:00</lastmod>
+        <loc>http://archome.github.com/archome/blog/archives/</loc>
+        <lastmod>2012-03-12T13:58:59-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://archome.github.com/archome/</loc>
+        <lastmod>2012-03-12T13:58:59-04:00</lastmod>
     </url>
 </urlset>
