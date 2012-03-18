@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Notes on Paul Mishler's Raising Reds"
-date: 2012-03-13 15:55
+date: 2012-03-18 15:55
 comments: true
 categories: [education, communes]
 author: helrond
 ---
+
 Documents the concerns of the Communist family and education in the United States. 
 
 Mishler proposes that Communist education draws from two strains of radical education in the US: socialist and anarchist. Anarchist education more concerned with radicalizing structure of education; socialist education focuses on radicalizing content of classes. Communist education attempts to synthesize both these traditions and further them by engaging children's organizations in active political activity. Tension between transcending ethnicity in favor "Americanism" while still maintaining radical tradition (which were largely rooted in European ethnic groups).
