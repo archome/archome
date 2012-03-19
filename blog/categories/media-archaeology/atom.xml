@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: media archaeology | Archome]]></title>
-  <link href="http://archome.github.com/archome/blog/categories/media-archaeology/atom.xml" rel="self"/>
-  <link href="http://archome.github.com/archome/"/>
-  <updated>2012-03-18T18:56:04-04:00</updated>
-  <id>http://archome.github.com/archome/</id>
+  <link href="http://archo.me//blog/categories/media-archaeology/atom.xml" rel="self"/>
+  <link href="http://archo.me//"/>
+  <updated>2012-03-18T21:31:17-04:00</updated>
+  <id>http://archo.me//</id>
   <author>
     <name><![CDATA[Archome]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Notes on Wolfgang Ernst's "Media Archaeography"]]></title>
-    <link href="http://archome.github.com/archome/2012/02/26/media-archaeography/"/>
+    <link href="http://archo.me//2012/02/26/media-archaeography/"/>
     <updated>2012-02-26T21:45:00-05:00</updated>
-    <id>http://archome.github.com/archome/2012/02/26/media-archaeography</id>
+    <id>http://archo.me//2012/02/26/media-archaeography</id>
     <content type="html"><![CDATA[<p>Wolfgang Ernst's (2011) presentation of "media archaeology" situates it as a methodological and aesthetic approach that is, in his description, preferable over "the supremacy of media-historical narratives." In Ernst's account, the media itself gains a certain level of agency:</p>
 
 <p><blockquote><p>[Media archaeology ...] is an awareness when media themselves, <em>not just humans anymore,</em> become active "archaeologists" of knowledge.</p></blockquote></p>
