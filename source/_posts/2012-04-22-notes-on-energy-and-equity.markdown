@@ -23,8 +23,9 @@ There are two roads from where we are to technological maturity: one is the road
   title={Energy and equity},
   author={Illich, I.},
   year={1974},
-  publisher={Harper \& Row}
+  publisher={Harper & Row}
 }
+
 @book{virilio1986speed,
   title={Speed and politics: An essay on dromology},
   translator={Mark Polizzotti},
