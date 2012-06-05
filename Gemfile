@@ -15,6 +15,7 @@ group :development do
   gem 'liquid', '2.2.2'
   gem 'citeproc-ruby'
   gem 'bibtex-ruby'
+  gem 'json'
 end
 
 gem 'sinatra', '1.2.6'
